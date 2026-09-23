@@ -1,4 +1,4 @@
-package it.xztl.thread;
+package it.xztl.example;
 
 public class Main {
     public static void main(String[] args) {
